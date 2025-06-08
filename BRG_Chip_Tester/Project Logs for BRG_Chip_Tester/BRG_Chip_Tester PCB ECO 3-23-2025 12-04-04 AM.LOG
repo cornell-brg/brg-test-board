@@ -1,0 +1,47 @@
+Change Footprint: Cannot match pads with new footprint in component :C3 Footprint:FP-C1608-080-0_1-MFG
+Change Footprint: Cannot match pads with new footprint in component :C6 Footprint:FP-C1608-080-0_1-MFG
+Change Footprint: Cannot match pads with new footprint in component :C42 Footprint:FP-C1608-080-0_1-MFG
+Change Footprint: Cannot match pads with new footprint in component :C44 Footprint:FP-C1608-080-0_1-MFG
+Change Component Footprint: Designator=R37 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-KTR03-MFG
+Change Component Footprint: Designator=C27 Old Footprint=FP-GRM15-MFG New Footprint=FP-GRM15-MFG
+Change Component Footprint: Designator=C28 Old Footprint=FP-GRM15-MFG New Footprint=FP-GRM15-MFG
+Change Footprint: Footprint Not Found JST-SM03B-SRSS-TB_V
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RSV0016A_V
+Change component parameters: Designator = "R37" ("R37"); Footprint = "FP-CRCW0603-e3-MFG"; UniqueID = "\YXZDQWRS" ("\YXZDQWRS")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"

@@ -1,0 +1,236 @@
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=CLK_1 Pin=FB1-2
+Removed Pin From Net: NetName=CLK_0 Pin=FB2-1
+Removed Pin From Net: NetName=GND Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=I2C_0_SCL Pin=U9-3
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=U9-5
+Removed Pin From Net: NetName=GND Pin=U9-6
+Removed Pin From Net: NetName=GND Pin=U9-9
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=U9-10
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=U9-13
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=U9-14
+Removed Pin From Net: NetName=GND Pin=U9-15
+Removed Pin From Net: NetName=+VIO/CLK_RAW Pin=U9-16
+Removed Pin From Net: NetName=GND Pin=U9-17
+Removed Pin From Net: NetName=GND Pin=U9-17
+Removed Pin From Net: NetName=GND Pin=U9-17
+Removed Pin From Net: NetName=GND Pin=U9-17
+Removed Pin From Net: NetName=GND Pin=U9-17
+Removed Pin From Net: NetName=GND Pin=U9-17
+Removed Member From Class: ClassName=BRG_Chip_Tester Member=C29
+Removed Member From Class: ClassName=BRG_Chip_Tester Member=C30
+Removed Member From Class: ClassName=BRG_Chip_Tester Member=C31
+Removed Member From Class: ClassName=BRG_Chip_Tester Member=FB1
+Removed Member From Class: ClassName=BRG_Chip_Tester Member=FB2
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35NL15T15
+Change Footprint: Footprint Not Found DBV0005A_N
+Change Footprint: Footprint Not Found FP-AC0402-IPC_B
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-C0402C105K8PACTU-MFG
+Change Footprint: Footprint Not Found FP-C0402C105K8PACTU-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-CC0402-0_55-IPC_B
+Change Footprint: Footprint Not Found FP-CC0402-0_55-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-MFG
+Change Footprint: Footprint Not Found FP-CSRN2512-IPC_C
+Change Footprint: Footprint Not Found FP-CSRN2512-IPC_C
+Change Footprint: Footprint Not Found FP-DGS0010A-MFG
+Change Footprint: Footprint Not Found FP-DGS0010A-MFG
+Change Footprint: Footprint Not Found FP-DRV0006A-IPC_C
+Change Footprint: Footprint Not Found FP-DRV0006A-IPC_C
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found FP-GRM32E-0_3-0_2-IPC_C
+Change Footprint: Footprint Not Found FP-GRM155-0_05-IPC_A
+Change Footprint: Footprint Not Found FP-M-FLAT-MFG
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-S6B-XH-A_LF_SN-MFG
+Change Footprint: Footprint Not Found FP-S6B-XH-A_LF_SN-MFG
+Change Footprint: Footprint Not Found FP-SMC-MFG
+Change Footprint: Footprint Not Found FP-SMC-MFG
+Change Footprint: Footprint Not Found FP-USB4085-GF-A-MFG
+Change Footprint: Footprint Not Found JST-S4B-XH-A(LF)(SN)_V
+Change Footprint: Footprint Not Found JST-S4B-XH-A(LF)(SN)_V
+Change Footprint: Footprint Not Found JST-SM03B-SRSS-TB_V
+Change Footprint: Footprint Not Found MSOP-MS8_M
+Change Footprint: Footprint Not Found MSOP-MS8_M
+Change Footprint: Footprint Not Found ONSC-SOT-223-4-318H-01_A_V
+Change Component Footprint: Designator=U9 Old Footprint=QFN50P300X300X100-17N New Footprint=FP-SI5351A-B-GTR-MFG
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T05
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RSV0016A_V
+Change Footprint: Footprint Not Found WE-MAIA_4020
+Change Component Comment : Designator=C27 Old Comment=GMD155R71C104KA11D  New Comment=C0603C105K3RACTU
+Change Component Comment : Designator=C28 Old Comment=GMD155R71C104KA11D  New Comment=C0603C105K3RACTU
+Change Component Comment : Designator=C2 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C4 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C9 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C10 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C11 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C12 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C13 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C14 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C15 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C16 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C17 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C20 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C21 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C24 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C25 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C26 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C32 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C33 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C34 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C35 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C36 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C37 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C38 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C39 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C40 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=C47 Old Comment=GMD155R71C104KA11D  New Comment=GMD155R71C104KA11D
+Change Component Comment : Designator=R37 Old Comment=KTR03EZPF3001  New Comment=KTR03EZPF3001
+Change Component Comment : Designator=U9 Old Comment=LMK3C0105 New Comment=SI5351A-B-GTR
+Change Managed Component Library Link : Designator=U9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF66824B-6214-403D-90AD-0F3F2B51DB5C Old RevisionGUID= New RevisionGUID=B715A5F6-65EB-4591-BF62-8520030A85C0
+Change component parameters: Designator = "C27" ("C27"); Footprint = "FP-GRM15-MFG"; UniqueID = "\LQQISLXA" ("\LQQISLXA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603C105K3RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "FP-GRM15-MFG"; UniqueID = "\BVGUKVRQ" ("\BVGUKVRQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603C105K3RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U9" ("U9"); Footprint = "QFN50P300X300X100-17N"; UniqueID = "\ZZZLMWCU" ("\ZZZLMWCU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "MSOP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input"; Value = "Crystal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Duty Cycle"; Value = "55%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Frequency"; Value = "200MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "22mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PLL"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "MultiSynth™"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_FA-238_25.0000MB-K)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Epson'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FA-238 25.0000MB-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y2(XTAL_FA-238_25.0000MB-K)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Epson'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FA-238 25.0000MB-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+VIO/CLK_RAW Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=+3V3 Pin=C28-2
+Added Pin To Net: NetName=+3V3 Pin=U9-1
+Added Pin To Net: NetName=I2C_0_SCL Pin=U9-5
+Added Pin To Net: NetName=+VIO/CLK_RAW Pin=U9-7
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=CLK_1 Pin=U9-9
+Added Pin To Net: NetName=CLK_0 Pin=U9-10
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=NetU9_2 Pin=U9-2
+Added Pin To Net: NetName=NetU9_2 Pin=Y1-1
+Added Net: Name=NetU9_2
+Added Pin To Net: NetName=NetU9_3 Pin=U9-3
+Added Pin To Net: NetName=NetU9_3 Pin=Y1-3
+Added Net: Name=NetU9_3
+Added Member To Class: ClassName=BRG_Chip_Tester Member=Component Y1 FA-238_25.0000MB-K
+Added Member To Class: ClassName=BRG_Chip_Tester Member=Component Y2 FA-238_25.0000MB-K

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=CLK_0 Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-G1
+Removed Pin From Net: NetName=GND Pin=J6-G2
+Removed Pin From Net: NetName=GND Pin=J6-G3
+Removed Pin From Net: NetName=GND Pin=J6-G4
+Removed Pin From Net: NetName=CLK_1 Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-G1
+Removed Pin From Net: NetName=GND Pin=J7-G2
+Removed Pin From Net: NetName=GND Pin=J7-G3
+Removed Pin From Net: NetName=GND Pin=J7-G4
+Removed Pin From Net: NetName=CLK_0_DBG Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=J8-G1
+Removed Pin From Net: NetName=GND Pin=J8-G2
+Removed Pin From Net: NetName=GND Pin=J8-G3
+Removed Pin From Net: NetName=GND Pin=J8-G4
+Removed Pin From Net: NetName=CLK_1_DBG Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-G1
+Removed Pin From Net: NetName=GND Pin=J9-G2
+Removed Pin From Net: NetName=GND Pin=J9-G3
+Removed Pin From Net: NetName=GND Pin=J9-G4
+Change Component Footprint: Designator=J7 Old Footprint=RFSOLUTIONS_CON-SMA-EDGE-S New Footprint=FP-RF2-04A-T-00-50-G-MFG
+Change Component Footprint: Designator=J8 Old Footprint=RFSOLUTIONS_CON-SMA-EDGE-S New Footprint=FP-RF2-04A-T-00-50-G-MFG
+Change Component Footprint: Designator=J9 Old Footprint=RFSOLUTIONS_CON-SMA-EDGE-S New Footprint=FP-RF2-04A-T-00-50-G-MFG
+Change Component Comment : Designator=J7 Old Comment=CON-SMA-EDGE-S New Comment=RF2-04A-T-00-50-G
+Change Component Comment : Designator=J8 Old Comment=CON-SMA-EDGE-S New Comment=RF2-04A-T-00-50-G
+Change Component Comment : Designator=J9 Old Comment=CON-SMA-EDGE-S New Comment=RF2-04A-T-00-50-G
+Change Managed Component Library Link : Designator=J7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7ADB199D-99A6-42EB-8501-17B549C7D861 Old RevisionGUID= New RevisionGUID=C10BBE37-04AC-4B3F-B714-C4C6C1DE3786
+Change Managed Component Library Link : Designator=J8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7ADB199D-99A6-42EB-8501-17B549C7D861 Old RevisionGUID= New RevisionGUID=C10BBE37-04AC-4B3F-B714-C4C6C1DE3786
+Change Managed Component Library Link : Designator=J9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7ADB199D-99A6-42EB-8501-17B549C7D861 Old RevisionGUID= New RevisionGUID=C10BBE37-04AC-4B3F-B714-C4C6C1DE3786
+Change component parameters: Designator = "J7" ("J7"); Footprint = "RFSOLUTIONS_CON-SMA-EDGE-S"; UniqueID = "\XPMMYORH" ("\XPMMYORH")
+Change component parameters: Designator = "J8" ("J8"); Footprint = "RFSOLUTIONS_CON-SMA-EDGE-S"; UniqueID = "\AXNHDRUB" ("\AXNHDRUB")
+Change component parameters: Designator = "J9" ("J9"); Footprint = "RFSOLUTIONS_CON-SMA-EDGE-S"; UniqueID = "\LCUWPSJJ" ("\LCUWPSJJ")
+Added Component: Designator=J11(FP-RF2-04A-T-00-50-G-MFG)
+Added Pin To Net: NetName=CLK_0 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=CLK_1 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=CLK_0_DBG Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J9-5
+Added Pin To Net: NetName=CLK_1_DBG Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=GND Pin=J11-4
+Added Pin To Net: NetName=GND Pin=J11-5
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J11 RF2-04A-T-00-50-G

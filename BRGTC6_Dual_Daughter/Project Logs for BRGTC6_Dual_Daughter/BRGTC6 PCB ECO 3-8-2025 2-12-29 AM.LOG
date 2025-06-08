@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=CRED_VAL_0_1 Pin=J2-A7
+Add Component: Footprint Not Found CONN_3020-40-0100-00_CNC
+Added Pin To Net: NetName=CRED_VAL_1_0 Pin=J2-A7
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-23
+Add Pin To Net: Unknown Pin: Pin J3-24
+Add Pin To Net: Unknown Pin: Pin J3-25
+Add Pin To Net: Unknown Pin: Pin J3-26
+Add Pin To Net: Unknown Pin: Pin J3-29
+Add Pin To Net: Unknown Pin: Pin J3-30
+Add Pin To Net: Unknown Pin: Pin J3-31
+Add Pin To Net: Unknown Pin: Pin J3-32
+Add Pin To Net: Unknown Pin: Pin J3-33
+Add Pin To Net: Unknown Pin: Pin J3-34
+Add Pin To Net: Unknown Pin: Pin J3-35
+Add Pin To Net: Unknown Pin: Pin J3-36
+Add Pin To Net: Unknown Pin: Pin J3-37
+Add Pin To Net: Unknown Pin: Pin J3-38
+Add Pin To Net: Unknown Pin: Pin J3-39
+Add Pin To Net: Unknown Pin: Pin J3-40
+Add Class Member: Failed to add class member : Component J3 3020-40-0100-00

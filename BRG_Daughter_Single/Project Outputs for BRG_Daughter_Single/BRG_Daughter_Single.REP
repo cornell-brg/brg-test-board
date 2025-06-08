@@ -1,0 +1,470 @@
+*************************************************************
+FileName = BRG_Daughter_Single.GBR
+AutoAperture = True
+*************************************************************
+Generating : TOP
+      File : TOP.GTL
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D18
+    D19
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : GND.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : BOT
+      File : BOT.GBL
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D18
+    D19
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : PWR.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BRG_Daughter_Single.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BRG_Daughter_Single.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BRG_Daughter_Single.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BRG_Daughter_Single.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BRG_Daughter_Single.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BRG_Daughter_Single.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BRG_Daughter_Single.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : BRG_Daughter_Single.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : BRG_Daughter_Single.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : BRG_Daughter_Single.GM14
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BRG_Daughter_Single.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : BRG_Daughter_Single.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : BRG_Daughter_Single.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : BRG_Daughter_Single.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : BRG_Daughter_Single.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : BRG_Daughter_Single.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D14
+    D16
+    D38
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : BRG_Daughter_Single.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BRG_Daughter_Single.GPT
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BRG_Daughter_Single.GPB
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : BRG_Daughter_Single.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : BRG_Daughter_Single.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : BRG_Daughter_Single.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : BRG_Daughter_Single.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D29
+    D30
+    D31
+    D32
+    D33
+    D35
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : BRG_Daughter_Single.GD1
+
+    Adding Drill Pair : TOP-BOT
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : BRG_Daughter_Single.GG1
+
+    Adding Drill Pair : TOP-BOT
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : BRG_Daughter_Single.GM
+
+
+Used DCodes :
+    D42
+*************************************************************
+

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J NewDesignator=J1
+Added Pin To Net: NetName=SPI_0_SCK Pin=J1-G10
+Added Pin To Net: NetName=SPI_1_SCK Pin=J2-G10
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J1 BRGTC6
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J2 BRGTC6
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J3 3020-40-0100-00
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J4 5006
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J5 5006
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J6 5006
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J6 CON-SMA-EDGE-S
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J7 CON-SMA-EDGE-S
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J8 CON-SMA-EDGE-S
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J9 CON-SMA-EDGE-S
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component P1 S4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component P2 S4B-XH-A(LF)(SN)

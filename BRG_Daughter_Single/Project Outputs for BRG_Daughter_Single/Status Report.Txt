@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BRG_Daughter_Single.PrjPcb]
+   Generated File[BRG_Daughter_Single.TXT]
+   Generated File[BRG_Daughter_Single.LDP]
+   Generated File[BRG_Daughter_Single.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:56:00 AM On 3/23/2025

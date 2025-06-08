@@ -1,0 +1,62 @@
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35NL15T15
+Change Footprint: Footprint Not Found FP-AC0402-IPC_B
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-MFG
+Change Footprint: Footprint Not Found FP-GRM32E-0_3-0_2-IPC_C
+Change Footprint: Footprint Not Found FP-GRM155-0_05-IPC_A
+Change Footprint: Footprint Not Found FP-M-FLAT-MFG
+Change Component Footprint: Designator=J5 Old Footprint=FP-S6B-XH-A_LF_SN-MFG New Footprint=FP-S6B-XH-A_LF_SN-MFG
+Change Component Footprint: Designator=J6 Old Footprint=FP-S6B-XH-A_LF_SN-MFG New Footprint=FP-S6B-XH-A_LF_SN-MFG
+Change Component Footprint: Designator=D1 Old Footprint=FP-SMC-MFG New Footprint=FP-SMC-MFG
+Change Component Footprint: Designator=D2 Old Footprint=FP-SMC-MFG New Footprint=FP-SMC-MFG
+Change Footprint: Footprint Not Found JST-SM03B-SRSS-TB_V
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T05
+Change Component Footprint: Designator=R1 Old Footprint=RESC1005X40X25LL05T10 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R2 Old Footprint=RESC1005X40X25LL05T10 New Footprint=RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RSV0016A_V
+Change Footprint: Footprint Not Found WE-MAIA_4020
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DCC9D122-A8C7-4218-9987-E2728E99AC4E Old RevisionGUID= New RevisionGUID=C30F96AD-1633-4D6C-92B5-6911BDA33B01
+Change Managed Component Library Link : Designator=D2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DCC9D122-A8C7-4218-9987-E2728E99AC4E Old RevisionGUID= New RevisionGUID=C30F96AD-1633-4D6C-92B5-6911BDA33B01
+Change Managed Component Library Link : Designator=J5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7E9939CF-58F3-4216-A7EB-A7D1600EC8BD Old RevisionGUID= New RevisionGUID=1B8DAC7D-F72A-4218-825E-E2681E8820AE
+Change Managed Component Library Link : Designator=J6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7E9939CF-58F3-4216-A7EB-A7D1600EC8BD Old RevisionGUID= New RevisionGUID=1B8DAC7D-F72A-4218-825E-E2681E8820AE
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=39C327BB-278F-44EF-B7D3-64B584AB938D Old RevisionGUID= New RevisionGUID=EBF16762-EE8F-49DA-BDB3-DB5047664494
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=39C327BB-278F-44EF-B7D3-64B584AB938D Old RevisionGUID= New RevisionGUID=EBF16762-EE8F-49DA-BDB3-DB5047664494
+Add Component: Footprint Not Found FP-GRM15-MFG
+Add Component: Footprint Not Found FP-GRM15-MFG
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Class Member: Failed to add class member : Component C27 C0603C105K3RACTU
+Add Class Member: Failed to add class member : Component C28 C0603C105K3RACTU

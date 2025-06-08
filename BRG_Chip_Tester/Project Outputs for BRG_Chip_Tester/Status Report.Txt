@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BRG_Chip_Tester.PrjPcb]
+   Generated File[BRG_Chip_Tester-RoundHoles.TXT]
+   Generated File[BRG_Chip_Tester-SlotHoles.TXT]
+   Generated File[BRG_Chip_Tester-RectHoles.TXT]
+   Generated File[BRG_Chip_Tester.LDP]
+   Generated File[BRG_Chip_Tester.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 1:53:58 AM On 3/23/2025

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\parke\OneDrive - Cornell University\Desktop\BRG\BRG_Chip_Tester\BRG_Chip_Tester.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=brg_chip_tester-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=brg_chip_tester-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=brg_chip_tester-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

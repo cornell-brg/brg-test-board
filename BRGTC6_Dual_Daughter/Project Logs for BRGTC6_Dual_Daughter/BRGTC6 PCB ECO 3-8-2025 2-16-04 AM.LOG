@@ -1,0 +1,27 @@
+Added Component: Designator=J3(CONN_3020-40-0100-00_CNC)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=SPI_1_CS Pin=J3-23
+Added Pin To Net: NetName=SPI_1_MISO Pin=J3-24
+Added Pin To Net: NetName=SPI_1_MOSI Pin=J3-25
+Added Pin To Net: NetName=SPI_1_SCK Pin=J3-26
+Added Pin To Net: NetName=RESET_1 Pin=J3-29
+Added Pin To Net: NetName=RESET_0 Pin=J3-30
+Added Pin To Net: NetName=SPI_0_CS Pin=J3-31
+Added Pin To Net: NetName=SPI_0_MISO Pin=J3-32
+Added Pin To Net: NetName=SPI_0_MOSI Pin=J3-33
+Added Pin To Net: NetName=SPI_0_SCK Pin=J3-34
+Added Pin To Net: NetName=GND Pin=J3-35
+Added Pin To Net: NetName=GND Pin=J3-36
+Added Pin To Net: NetName=+VIO/CLK Pin=J3-37
+Added Pin To Net: NetName=+VIO/CLK Pin=J3-38
+Added Pin To Net: NetName=+VCORE Pin=J3-39
+Added Pin To Net: NetName=+VCORE Pin=J3-40
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J3 3020-40-0100-00

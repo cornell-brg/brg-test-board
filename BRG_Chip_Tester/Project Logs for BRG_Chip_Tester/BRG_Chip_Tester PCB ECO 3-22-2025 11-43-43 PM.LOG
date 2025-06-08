@@ -1,0 +1,106 @@
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35NL15T15
+Change Footprint: Footprint Not Found FP-AC0402-IPC_B
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Component Footprint: Designator=C1 Old Footprint=FP-CC0402-0_55-IPC_B New Footprint=FP-GJM155-0_05-MFG
+Change Component Footprint: Designator=C5 Old Footprint=FP-CC0402-0_55-IPC_B New Footprint=FP-GJM155-0_05-MFG
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-MFG
+Change Footprint: Footprint Not Found FP-GRM32E-0_3-0_2-IPC_C
+Change Footprint: Footprint Not Found FP-GRM155-0_05-IPC_A
+Change Footprint: Footprint Not Found FP-M-FLAT-MFG
+Change Footprint: Footprint Not Found FP-S6B-XH-A_LF_SN-MFG
+Change Footprint: Footprint Not Found FP-S6B-XH-A_LF_SN-MFG
+Change Footprint: Footprint Not Found FP-SMC-MFG
+Change Footprint: Footprint Not Found FP-SMC-MFG
+Change Footprint: Footprint Not Found JST-SM03B-SRSS-TB_V
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T05
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RSV0016A_V
+Change Footprint: Footprint Not Found WE-MAIA_4020
+Change Component Comment : Designator=C1 Old Comment=CC0402FRNPO9BN150 New Comment=GJM1555C1H150FB01D
+Change Component Comment : Designator=C5 Old Comment=CC0402FRNPO9BN150 New Comment=GJM1555C1H150FB01D
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=5232CF3D-B163-47CD-B305-CC65A379A797 Old RevisionGUID= New RevisionGUID=280B6D37-A3DD-4EA4-B9F3-A722218471E5
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=5232CF3D-B163-47CD-B305-CC65A379A797 Old RevisionGUID= New RevisionGUID=280B6D37-A3DD-4EA4-B9F3-A722218471E5
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-CC0402-0_55-IPC_B"; UniqueID = "\IWSRZASG" ("\IWSRZASG")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "FP-CC0402-0_55-IPC_B"; UniqueID = "\XYIMLXLW" ("\XYIMLXLW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-GRM15-MFG
+Add Component: Footprint Not Found FP-GRM15-MFG
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Class Member: Failed to add class member : Component C27 C0603C105K3RACTU
+Add Class Member: Failed to add class member : Component C28 C0603C105K3RACTU

@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+VIO/CLK Pin=J2-H2
+Removed Pin From Net: NetName=+VIO/CLK Pin=J2-H10
+Removed Pin From Net: NetName=+VIO/CLK Pin=J2-K11
+Removed Pin From Net: NetName=+VIO/CLK Pin=J-H2
+Removed Pin From Net: NetName=+VIO/CLK Pin=J-H10
+Removed Pin From Net: NetName=+VIO/CLK Pin=J-K11
+Add Component: Footprint Not Found CONN_3020-40-0100-00_CNC
+Added Pin To Net: NetName=+VCORE Pin=J2-H2
+Added Pin To Net: NetName=+VCORE Pin=J2-H10
+Added Pin To Net: NetName=GND Pin=J2-K1
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-K3
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-K9
+Added Pin To Net: NetName=+VCORE Pin=J2-K11
+Added Pin To Net: NetName=CRED_CRED_0_1 Pin=J2-L4
+Added Pin To Net: NetName=CRED_VAL_0_1 Pin=J2-L5
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-23
+Add Pin To Net: Unknown Pin: Pin J3-24
+Add Pin To Net: Unknown Pin: Pin J3-25
+Add Pin To Net: Unknown Pin: Pin J3-26
+Add Pin To Net: Unknown Pin: Pin J3-29
+Add Pin To Net: Unknown Pin: Pin J3-30
+Add Pin To Net: Unknown Pin: Pin J3-31
+Add Pin To Net: Unknown Pin: Pin J3-32
+Add Pin To Net: Unknown Pin: Pin J3-33
+Add Pin To Net: Unknown Pin: Pin J3-34
+Add Pin To Net: Unknown Pin: Pin J3-35
+Add Pin To Net: Unknown Pin: Pin J3-36
+Add Pin To Net: Unknown Pin: Pin J3-37
+Add Pin To Net: Unknown Pin: Pin J3-38
+Add Pin To Net: Unknown Pin: Pin J3-39
+Add Pin To Net: Unknown Pin: Pin J3-40
+Added Pin To Net: NetName=+VCORE Pin=J-H2
+Added Pin To Net: NetName=+VCORE Pin=J-H10
+Added Pin To Net: NetName=GND Pin=J-K1
+Added Pin To Net: NetName=+VIO/CLK Pin=J-K3
+Added Pin To Net: NetName=+VIO/CLK Pin=J-K9
+Added Pin To Net: NetName=+VCORE Pin=J-K11
+Added Pin To Net: NetName=CRED_CRED_1_0 Pin=J-L4
+Added Pin To Net: NetName=CRED_VAL_1_0 Pin=J-L5
+Added Net: Name=CRED_VAL_1_0
+Add Class Member: Failed to add class member : Component J3 3020-40-0100-00

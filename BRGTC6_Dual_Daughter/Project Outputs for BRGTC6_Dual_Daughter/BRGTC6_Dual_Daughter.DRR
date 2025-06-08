@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BRGTC6_Dual_Daughter.PcbDoc   3/23/2025  12:54:47 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOT
+ASCII RoundHoles File : BRGTC6_Dual_Daughter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             246       PTH        880.01mm (34.65inch)
+T2      0.9mm (35mil)                                             Round             176       PTH        618.55mm (24.35inch)
+T3      1.092mm (43mil)                                           Round             40        PTH        109.22mm (4.30inch)
+T4      1.5mm (59mil)                                             Round             4         PTH        107.89mm (4.25inch)
+T5      1.6mm (63mil)                                             Round             20        PTH        309.57mm (12.19inch)
+T6      3.5mm (138mil)                                            Round             4         PTH        399.94mm (15.75inch)
+T7      1.78mm (70mil)                                            Round             8         NPTH       224.77mm (8.85inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              498
+
+Total Processing Time (hh:mm:ss) : 00:00:00

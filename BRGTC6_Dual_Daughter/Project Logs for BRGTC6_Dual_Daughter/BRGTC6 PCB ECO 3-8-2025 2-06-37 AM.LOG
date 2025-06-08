@@ -1,0 +1,356 @@
+Added Component: Designator=J1(FP-5006-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hole Diameter"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inside Diameter"; Value = "1.78mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outside Diameter"; Value = "3.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Added Component: Designator=J2(3M_200-6311-9UN-1900)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "3M5067-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/3m/200-6311-9UN-1900/3M5067-ND/1130121?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "200-6311-9UN-1900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/200-6311-9UN-1900/3M%20_TC_/view-part/159310/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN_3020-40-0100-00_CNC
+Added Component: Designator=J4(FP-5006-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hole Diameter"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inside Diameter"; Value = "1.78mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outside Diameter"; Value = "3.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Added Component: Designator=J5(FP-5006-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hole Diameter"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inside Diameter"; Value = "1.78mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outside Diameter"; Value = "3.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "THM"; VariantName = "[No Variations]"
+Added Component: Designator=J6(RFSOLUTIONS_CON-SMA-EDGE-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(RFSOLUTIONS_CON-SMA-EDGE-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(RFSOLUTIONS_CON-SMA-EDGE-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(RFSOLUTIONS_CON-SMA-EDGE-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J(3M_200-6311-9UN-1900)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "3M5067-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/3m/200-6311-9UN-1900/3M5067-ND/1130121?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "200-6311-9UN-1900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/200-6311-9UN-1900/3M%20_TC_/view-part/159310/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found JST-S4B-XH-A(LF)(SN)_V
+Add Component: Footprint Not Found JST-S4B-XH-A(LF)(SN)_V
+Added Pin To Net: NetName=+VCORE Pin=J-B1
+Added Pin To Net: NetName=+VCORE Pin=J-B11
+Added Pin To Net: NetName=+VCORE Pin=J-D2
+Added Pin To Net: NetName=+VCORE Pin=J-D10
+Added Pin To Net: NetName=+VCORE Pin=J1-1
+Added Pin To Net: NetName=+VCORE Pin=J2-B1
+Added Pin To Net: NetName=+VCORE Pin=J2-B11
+Added Pin To Net: NetName=+VCORE Pin=J2-D2
+Added Pin To Net: NetName=+VCORE Pin=J2-D10
+Added Net: Name=+VCORE
+Added Pin To Net: NetName=+VIO/CLK Pin=J-B3
+Added Pin To Net: NetName=+VIO/CLK Pin=J-B9
+Added Pin To Net: NetName=+VIO/CLK Pin=J-C2
+Added Pin To Net: NetName=+VIO/CLK Pin=J-C5
+Added Pin To Net: NetName=+VIO/CLK Pin=J-C7
+Added Pin To Net: NetName=+VIO/CLK Pin=J-E2
+Added Pin To Net: NetName=+VIO/CLK Pin=J-E3
+Added Pin To Net: NetName=+VIO/CLK Pin=J-E11
+Added Pin To Net: NetName=+VIO/CLK Pin=J-F9
+Added Pin To Net: NetName=+VIO/CLK Pin=J-G2
+Added Pin To Net: NetName=+VIO/CLK Pin=J-H2
+Added Pin To Net: NetName=+VIO/CLK Pin=J-H10
+Added Pin To Net: NetName=+VIO/CLK Pin=J-J2
+Added Pin To Net: NetName=+VIO/CLK Pin=J-J10
+Added Pin To Net: NetName=+VIO/CLK Pin=J-K11
+Added Pin To Net: NetName=+VIO/CLK Pin=J-L2
+Added Pin To Net: NetName=+VIO/CLK Pin=J-L6
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-B3
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-B9
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-C2
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-C5
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-C7
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-E2
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-E3
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-E11
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-F9
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-G2
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-H2
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-H10
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-J2
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-J10
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-K11
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-L2
+Added Pin To Net: NetName=+VIO/CLK Pin=J2-L6
+Added Pin To Net: NetName=+VIO/CLK Pin=J4-1
+Added Net: Name=+VIO/CLK
+Added Pin To Net: NetName=CLK_0_DBG Pin=J-E1
+Added Pin To Net: NetName=CLK_0_DBG Pin=J8-1
+Added Net: Name=CLK_0_DBG
+Added Pin To Net: NetName=CLK_0 Pin=J-F1
+Added Pin To Net: NetName=CLK_0 Pin=J6-1
+Added Net: Name=CLK_0
+Added Pin To Net: NetName=CLK_1_DBG Pin=J2-E1
+Added Pin To Net: NetName=CLK_1_DBG Pin=J9-1
+Added Net: Name=CLK_1_DBG
+Added Pin To Net: NetName=CLK_1 Pin=J2-F1
+Added Pin To Net: NetName=CLK_1 Pin=J7-1
+Added Net: Name=CLK_1
+Added Pin To Net: NetName=CRED_CLK_0_1 Pin=J-B7
+Added Pin To Net: NetName=CRED_CLK_0_1 Pin=J2-K5
+Added Net: Name=CRED_CLK_0_1
+Added Pin To Net: NetName=CRED_CLK_1_0 Pin=J-K5
+Added Pin To Net: NetName=CRED_CLK_1_0 Pin=J2-B7
+Added Net: Name=CRED_CLK_1_0
+Added Pin To Net: NetName=CRED_CRC_0_1 Pin=J-A9
+Added Pin To Net: NetName=CRED_CRC_0_1 Pin=J2-L3
+Added Net: Name=CRED_CRC_0_1
+Added Pin To Net: NetName=CRED_CRC_1_0 Pin=J-L3
+Added Pin To Net: NetName=CRED_CRC_1_0 Pin=J2-A9
+Added Net: Name=CRED_CRC_1_0
+Added Pin To Net: NetName=CRED_CRED_0_1 Pin=J-A8
+Added Net: Name=CRED_CRED_0_1
+Added Pin To Net: NetName=CRED_CRED_1_0 Pin=J2-A8
+Added Net: Name=CRED_CRED_1_0
+Added Pin To Net: NetName=CRED_MSG_0_1_0 Pin=J-A1
+Added Pin To Net: NetName=CRED_MSG_0_1_0 Pin=J2-L11
+Added Net: Name=CRED_MSG_0_1_0
+Added Pin To Net: NetName=CRED_MSG_0_1_1 Pin=J-A3
+Added Pin To Net: NetName=CRED_MSG_0_1_1 Pin=J2-L9
+Added Net: Name=CRED_MSG_0_1_1
+Added Pin To Net: NetName=CRED_MSG_0_1_2 Pin=J-A4
+Added Pin To Net: NetName=CRED_MSG_0_1_2 Pin=J2-L8
+Added Net: Name=CRED_MSG_0_1_2
+Added Pin To Net: NetName=CRED_MSG_0_1_3 Pin=J-B4
+Added Pin To Net: NetName=CRED_MSG_0_1_3 Pin=J2-K8
+Added Net: Name=CRED_MSG_0_1_3
+Added Pin To Net: NetName=CRED_MSG_0_1_4 Pin=J-A6
+Added Pin To Net: NetName=CRED_MSG_0_1_4 Pin=J2-K7
+Added Net: Name=CRED_MSG_0_1_4
+Added Pin To Net: NetName=CRED_MSG_0_1_5 Pin=J-A5
+Added Pin To Net: NetName=CRED_MSG_0_1_5 Pin=J2-L7
+Added Net: Name=CRED_MSG_0_1_5
+Added Pin To Net: NetName=CRED_MSG_0_1_6 Pin=J-C6
+Added Pin To Net: NetName=CRED_MSG_0_1_6 Pin=J2-J6
+Added Net: Name=CRED_MSG_0_1_6
+Added Pin To Net: NetName=CRED_MSG_0_1_7 Pin=J-B6
+Added Pin To Net: NetName=CRED_MSG_0_1_7 Pin=J2-J5
+Added Net: Name=CRED_MSG_0_1_7
+Added Pin To Net: NetName=CRED_MSG_1_0_0 Pin=J-L11
+Added Pin To Net: NetName=CRED_MSG_1_0_0 Pin=J2-A1
+Added Net: Name=CRED_MSG_1_0_0
+Added Pin To Net: NetName=CRED_MSG_1_0_1 Pin=J-L9
+Added Pin To Net: NetName=CRED_MSG_1_0_1 Pin=J2-A3
+Added Net: Name=CRED_MSG_1_0_1
+Added Pin To Net: NetName=CRED_MSG_1_0_2 Pin=J-L8
+Added Pin To Net: NetName=CRED_MSG_1_0_2 Pin=J2-A4
+Added Net: Name=CRED_MSG_1_0_2
+Added Pin To Net: NetName=CRED_MSG_1_0_3 Pin=J-K8
+Added Pin To Net: NetName=CRED_MSG_1_0_3 Pin=J2-B4
+Added Net: Name=CRED_MSG_1_0_3
+Added Pin To Net: NetName=CRED_MSG_1_0_4 Pin=J-K7
+Added Pin To Net: NetName=CRED_MSG_1_0_4 Pin=J2-A6
+Added Net: Name=CRED_MSG_1_0_4
+Added Pin To Net: NetName=CRED_MSG_1_0_5 Pin=J-L7
+Added Pin To Net: NetName=CRED_MSG_1_0_5 Pin=J2-A5
+Added Net: Name=CRED_MSG_1_0_5
+Added Pin To Net: NetName=CRED_MSG_1_0_6 Pin=J-J6
+Added Pin To Net: NetName=CRED_MSG_1_0_6 Pin=J2-C6
+Added Net: Name=CRED_MSG_1_0_6
+Added Pin To Net: NetName=CRED_MSG_1_0_7 Pin=J-J5
+Added Pin To Net: NetName=CRED_MSG_1_0_7 Pin=J2-B6
+Added Net: Name=CRED_MSG_1_0_7
+Added Pin To Net: NetName=CRED_REPAIR_0_1 Pin=J-B10
+Added Pin To Net: NetName=CRED_REPAIR_0_1 Pin=J2-K2
+Added Net: Name=CRED_REPAIR_0_1
+Added Pin To Net: NetName=CRED_REPAIR_1_0 Pin=J-K2
+Added Pin To Net: NetName=CRED_REPAIR_1_0 Pin=J2-B10
+Added Net: Name=CRED_REPAIR_1_0
+Added Pin To Net: NetName=CRED_RST_0_1 Pin=J-B8
+Added Pin To Net: NetName=CRED_RST_0_1 Pin=J2-K4
+Added Net: Name=CRED_RST_0_1
+Added Pin To Net: NetName=CRED_RST_1_0 Pin=J-K4
+Added Pin To Net: NetName=CRED_RST_1_0 Pin=J2-B8
+Added Net: Name=CRED_RST_1_0
+Added Pin To Net: NetName=CRED_VAL_0_1 Pin=J-A7
+Added Pin To Net: NetName=CRED_VAL_0_1 Pin=J2-A7
+Added Net: Name=CRED_VAL_0_1
+Added Pin To Net: NetName=GND Pin=J-A2
+Added Pin To Net: NetName=GND Pin=J-A10
+Added Pin To Net: NetName=GND Pin=J-B2
+Added Pin To Net: NetName=GND Pin=J-B5
+Added Pin To Net: NetName=GND Pin=J-C1
+Added Pin To Net: NetName=GND Pin=J-C10
+Added Pin To Net: NetName=GND Pin=J-C11
+Added Pin To Net: NetName=GND Pin=J-D1
+Added Pin To Net: NetName=GND Pin=J-D11
+Added Pin To Net: NetName=GND Pin=J-F3
+Added Pin To Net: NetName=GND Pin=J-F11
+Added Pin To Net: NetName=GND Pin=J-G1
+Added Pin To Net: NetName=GND Pin=J-G3
+Added Pin To Net: NetName=GND Pin=J-G9
+Added Pin To Net: NetName=GND Pin=J-G11
+Added Pin To Net: NetName=GND Pin=J-H1
+Added Pin To Net: NetName=GND Pin=J-H11
+Added Pin To Net: NetName=GND Pin=J-J1
+Added Pin To Net: NetName=GND Pin=J-J7
+Added Pin To Net: NetName=GND Pin=J-J11
+Added Pin To Net: NetName=GND Pin=J-K6
+Added Pin To Net: NetName=GND Pin=J-K10
+Added Pin To Net: NetName=GND Pin=J-L1
+Added Pin To Net: NetName=GND Pin=J-L10
+Added Pin To Net: NetName=GND Pin=J2-A2
+Added Pin To Net: NetName=GND Pin=J2-A10
+Added Pin To Net: NetName=GND Pin=J2-B2
+Added Pin To Net: NetName=GND Pin=J2-B5
+Added Pin To Net: NetName=GND Pin=J2-C1
+Added Pin To Net: NetName=GND Pin=J2-C10
+Added Pin To Net: NetName=GND Pin=J2-C11
+Added Pin To Net: NetName=GND Pin=J2-D1
+Added Pin To Net: NetName=GND Pin=J2-D11
+Added Pin To Net: NetName=GND Pin=J2-F3
+Added Pin To Net: NetName=GND Pin=J2-F11
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G9
+Added Pin To Net: NetName=GND Pin=J2-G11
+Added Pin To Net: NetName=GND Pin=J2-H1
+Added Pin To Net: NetName=GND Pin=J2-H11
+Added Pin To Net: NetName=GND Pin=J2-J1
+Added Pin To Net: NetName=GND Pin=J2-J7
+Added Pin To Net: NetName=GND Pin=J2-J11
+Added Pin To Net: NetName=GND Pin=J2-K6
+Added Pin To Net: NetName=GND Pin=J2-K10
+Added Pin To Net: NetName=GND Pin=J2-L1
+Added Pin To Net: NetName=GND Pin=J2-L10
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-G1
+Added Pin To Net: NetName=GND Pin=J6-G2
+Added Pin To Net: NetName=GND Pin=J6-G3
+Added Pin To Net: NetName=GND Pin=J6-G4
+Added Pin To Net: NetName=GND Pin=J7-G1
+Added Pin To Net: NetName=GND Pin=J7-G2
+Added Pin To Net: NetName=GND Pin=J7-G3
+Added Pin To Net: NetName=GND Pin=J7-G4
+Added Pin To Net: NetName=GND Pin=J8-G1
+Added Pin To Net: NetName=GND Pin=J8-G2
+Added Pin To Net: NetName=GND Pin=J8-G3
+Added Pin To Net: NetName=GND Pin=J8-G4
+Added Pin To Net: NetName=GND Pin=J9-G1
+Added Pin To Net: NetName=GND Pin=J9-G2
+Added Pin To Net: NetName=GND Pin=J9-G3
+Added Pin To Net: NetName=GND Pin=J9-G4
+Added Net: Name=GND
+Added Pin To Net: NetName=RESET_0 Pin=J-F2
+Added Net: Name=RESET_0
+Added Pin To Net: NetName=RESET_1 Pin=J2-F2
+Added Net: Name=RESET_1
+Added Pin To Net: NetName=SPI_0_CS Pin=J-E10
+Added Net: Name=SPI_0_CS
+Added Pin To Net: NetName=SPI_0_MISO Pin=J-E9
+Added Net: Name=SPI_0_MISO
+Added Pin To Net: NetName=SPI_0_MOSI Pin=J-F10
+Added Net: Name=SPI_0_MOSI
+Added Net: Name=SPI_0_SCK
+Added Pin To Net: NetName=SPI_0_SCLK Pin=J-G10
+Added Net: Name=SPI_0_SCLK
+Added Pin To Net: NetName=SPI_1_CS Pin=J2-E10
+Added Net: Name=SPI_1_CS
+Added Pin To Net: NetName=SPI_1_MISO Pin=J2-E9
+Added Net: Name=SPI_1_MISO
+Added Pin To Net: NetName=SPI_1_MOSI Pin=J2-F10
+Added Net: Name=SPI_1_MOSI
+Added Net: Name=SPI_1_SCK
+Added Pin To Net: NetName=SPI_1_SCLK Pin=J2-G10
+Added Net: Name=SPI_1_SCLK
+Added Class: Name=BRGTC6_Dual_Daughter
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SPI_0_MISO Pin=P1-1
+Added Pin To Net: NetName=SPI_0_SCK Pin=P1-3
+Added Pin To Net: NetName=SPI_0_CS Pin=P1-4

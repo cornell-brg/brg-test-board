@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C1 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C2 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C4 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C5 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C6 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C7 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C8 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C9 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C10 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C11 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C12 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C13 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C14 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C15 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C16 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C17 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component C18 0.1uF
+Added Member To Class: ClassName=BRGTC6_Dual_Daughter Member=Component J6 5006

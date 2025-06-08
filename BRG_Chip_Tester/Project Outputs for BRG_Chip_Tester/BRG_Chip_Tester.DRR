@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BRG_Chip_Tester.PcbDoc   3/23/2025  1:53:58 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOT
+ASCII RoundHoles File : BRG_Chip_Tester-RoundHoles.TXT
+ASCII SlotHoles File : BRG_Chip_Tester-SlotHoles.TXT
+ASCII RectHoles File : BRG_Chip_Tester-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             385       PTH        1346.62mm (53.02inch)
+T2      0.4mm (16mil)                                             Round             16        PTH        13.25mm (0.52inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        36.16mm (1.42inch)
+T4      0.78mm (31mil)                                            Round             14        PTH        162.56mm (6.40inch)
+T5      0.8mm (31mil)                                             Round             12        PTH        33.02mm (1.30inch)
+T6      0.8mm (31mil)                                             Rectangle         5         PTH        59.96mm (2.36inch)
+T7      0.9mm (35mil)                                             Round             20        PTH        58.26mm (2.29inch)
+T8      1.092mm (43mil)                                           Round             40        PTH        139.70mm (5.50inch)
+T9      1.5mm (59mil)                                             Round             2         PTH        14.22mm (0.56inch)
+T10     1.6mm (63mil)                                             Round             10        PTH        145.80mm (5.74inch)
+T11     3.5mm (138mil)                                            Round             4         PTH        340.42mm (13.40inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              512
+
+Total Processing Time (hh:mm:ss) : 00:00:00

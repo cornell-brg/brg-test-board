@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=+3V3 Pin=R34-2
+Removed Member From Class: ClassName=BRG_Chip_Tester Member=R34
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35NL15T15
+Change Footprint: Footprint Not Found DBV0005A_N
+Change Footprint: Footprint Not Found FP-AC0402-IPC_B
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-B3U-1000P-MFG
+Change Footprint: Footprint Not Found FP-C0402C105K8PACTU-MFG
+Change Footprint: Footprint Not Found FP-C0402C105K8PACTU-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-C1608-080-0_1-MFG
+Change Footprint: Footprint Not Found FP-CC0402-0_55-IPC_B
+Change Footprint: Footprint Not Found FP-CC0402-0_55-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Change Footprint: Footprint Not Found FP-CRCW0603-e3-MFG
+Change Footprint: Footprint Not Found FP-CSRN2512-IPC_C
+Change Footprint: Footprint Not Found FP-CSRN2512-IPC_C
+Change Footprint: Footprint Not Found FP-DGS0010A-MFG
+Change Footprint: Footprint Not Found FP-DGS0010A-MFG
+Change Footprint: Footprint Not Found FP-DRV0006A-IPC_C
+Change Footprint: Footprint Not Found FP-DRV0006A-IPC_C
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-ERJ2RK-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found FP-GRM15-MFG
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X87X35LL15T15
+Change Footprint: Footprint Not Found FP-GRM32E-0_3-0_2-IPC_C
+Change Footprint: Footprint Not Found FP-GRM155-0_05-IPC_A
+Change Footprint: Footprint Not Found FP-M-FLAT-MFG
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-PW0020A-IPC_C
+Change Footprint: Footprint Not Found FP-S6B-XH-A_LF_SN-MFG
+Change Footprint: Footprint Not Found FP-S6B-XH-A_LF_SN-MFG
+Change Footprint: Footprint Not Found FP-SMC-MFG
+Change Footprint: Footprint Not Found FP-SMC-MFG
+Change Footprint: Footprint Not Found FP-USB4085-GF-A-MFG
+Change Footprint: Footprint Not Found JST-S4B-XH-A(LF)(SN)_V
+Change Footprint: Footprint Not Found JST-S4B-XH-A(LF)(SN)_V
+Change Footprint: Footprint Not Found JST-SM03B-SRSS-TB_V
+Change Footprint: Footprint Not Found MSOP-MS8_M
+Change Footprint: Footprint Not Found MSOP-MS8_M
+Change Footprint: Footprint Not Found ONSC-SOT-223-4-318H-01_A_V
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T05
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25LL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25ML05T05
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RESC1005X40X25NL05T10
+Change Footprint: Footprint Not Found RSV0016A_V
+Change Footprint: Footprint Not Found WE-MAIA_4020
+Change Component Comment : Designator=C2 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C4 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C9 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C10 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C11 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C12 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C13 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C14 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C15 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C16 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C17 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C20 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C21 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C24 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C25 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C26 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C32 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C33 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C34 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C35 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C36 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C37 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C38 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C39 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C40 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C47 Old Comment=GMD155R71C104KA11D New Comment=GRM155R71C104KA88D
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U4-56
+Change Net Name : Old Net Name=+3V3 New Net Name=QSPI_SS
+Added Member To Class: ClassName=BRG_Chip_Tester Member=Component U9 SI5351A-B-GTR
+Added Rule: Name=Schematic Supply Nets_5

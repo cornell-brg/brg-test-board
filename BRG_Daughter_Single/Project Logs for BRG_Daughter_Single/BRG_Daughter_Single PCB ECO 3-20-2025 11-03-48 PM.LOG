@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=J-K1
+Added Pin To Net: NetName=+VCORE Pin=J-K1
